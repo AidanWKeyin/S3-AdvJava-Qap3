@@ -125,6 +125,7 @@ dist
 # Stores VSCode versions used for testing VSCode extensions
 .vscode-test
 
+
 # yarn v3
 .pnp.*
 .yarn/*
@@ -137,3 +138,55 @@ dist
 # Vite logs files
 vite.config.js.timestamp-*
 vite.config.ts.timestamp-*
+
+
+# Compiled source #
+# ---------------
+*.class
+
+# BlueJ files
+*.ctxt
+
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+
+# Package Files #
+*.jar
+*.war
+*.ear
+
+# Eclipse IDE
+.project
+.classpath
+.c9/
+.settings/
+bin/
+tmp/
+*.launch
+
+# IntelliJ IDEA
+.idea/
+*.iml
+out/
+
+# NetBeans
+nbproject/private/
+build/
+nbbuild/
+dist/
+nbdist/
+.nb-gradle/
+
+# VS Code
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Maven/Gradle
+target/
+build/
+
+# Other
+*.zip

@@ -4,7 +4,10 @@ Git repository for the 4 Java problems.
 ---------------------------------------------------------------------------
 
 1. How many hours did it take you to complete this assessment? (Please estimate per problem if possible)
-   - 
+   - Problem 1: 2h 
+   - Problem 2: 
+   - Problem 3:
+   - Problem 4:
 
 2. What online resources did you use? (e.g., Lectures, YouTube, Stack Overflow, etc.)
    -
